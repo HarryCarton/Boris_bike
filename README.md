@@ -1,6 +1,6 @@
 Ruby programme that will emulate Boris bike system.
 |Object|Message|
 |------|-------|
-|Person|inspect_bike|
+|Person||
 |DockingStation|release_bike|
-|Bike||
+|Bike|working?|
