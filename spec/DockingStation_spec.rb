@@ -1,3 +1,0 @@
-desribe DockingStation do
-  
-end
